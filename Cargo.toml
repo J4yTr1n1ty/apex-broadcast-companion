@@ -1,0 +1,10 @@
+[package]
+name = "apex-broadcast-companion"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = "1.37.0"
+tungstenite = "0.21.0"
